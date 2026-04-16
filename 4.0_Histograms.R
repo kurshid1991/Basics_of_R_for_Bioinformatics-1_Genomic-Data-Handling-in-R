@@ -2,7 +2,7 @@
 ########################## DATA GENERATION ############################
 #######################################################################
 
-set.seed(123)
+set.seed(42)
 
 # Generate sample data
 x <- rnorm(50)              # Normal distribution
